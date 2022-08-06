@@ -1,0 +1,39 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    background-image: linear-gradient(#b3afab 25%, 75%, #9ae667);
+    height: 100%;
+}
+
+#mainTitle {
+    text-align: center;
+    margin: 2em;
+}
+
+#noStockMessage {
+    text-align: center;
+    margin: 5em;
+}
+/*
+#pairImg {
+    width: 400px;
+    height: auto;
+}
+
+#contactImg {
+    width: 40px;
+    height: 40px;
+}
+
+.shoes {
+    display: flex;
+    position: absolute;
+}
+
+.pair {
+    display: grid;
+    margin: 5em;
+}
+*/
